@@ -39,7 +39,7 @@
     "postcss-loader": "^2.1.4",
     "precss": "^2.0.0",
     "resolve-url-loader": "^2.3.0",
-    "sass-loader": "^6.0.6",
+    "sass-loader": "^6.0.7",
     "semantic-ui-css": "^2.3.1",
     "style-loader": "^0.19.1",
     "transform-runtime": "0.0.0",
