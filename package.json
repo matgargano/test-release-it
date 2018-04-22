@@ -1,6 +1,7 @@
 {
   "name": "test-release",
-  "version": "0.0.8",
+  "private": true,
+  "version": "0.0.9",
   "description": "test release",
   "main": "index.js",
   "scripts": {
