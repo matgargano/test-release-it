@@ -1,7 +1,7 @@
 {
-  "github": {
-    "release": true,
-    "releaseName": "Release %s",    
-  },
-  "buildCommand": "npm run build"
+	"github": {
+		"release": true,
+		"releaseName": "Release %s"
+	},
+	"buildCommand": "npm run build"
 }
