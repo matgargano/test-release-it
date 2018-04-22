@@ -6,7 +6,8 @@
   "scripts": {
     "build:local": "webpack",
     "build": "NODE_ENV='production' webpack -p",
-    "build:local:watch": "webpack --watch"
+    "build:local:watch": "webpack --watch",
+    "release": "release-it"
   },
   "author": "Mat Gargano <mgargano@gmail.com>",
   "license": "ISC",
@@ -45,5 +46,7 @@
     "webpack": "^3.8.1",
     "webpack-cleanup-plugin": "^0.5.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "release-it": "^7.4.1"
+  }
 }
