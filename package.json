@@ -36,7 +36,7 @@
     "jquery": "^3.2.1",
     "node-sass": "^4.6.0",
     "path": "^0.12.7",
-    "postcss-loader": "^2.0.8",
+    "postcss-loader": "^2.1.4",
     "precss": "^2.0.0",
     "resolve-url-loader": "^2.3.0",
     "sass-loader": "^6.0.6",
