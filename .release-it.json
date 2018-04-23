@@ -6,6 +6,7 @@
   "buildCommand": "npm run build",
   "changelogCommand": "git log --pretty=format:'* %s (%h)' [REV_RANGE]",
   "dist": {
-    "repo": "git@github.com:matgargano/test-release-it-release.git"
+    "repo": "git@github.com:matgargano/test-release-it-release.git",
+    "baseDir": "./"
   }
 }
