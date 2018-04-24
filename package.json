@@ -8,7 +8,7 @@
     "build:local": "webpack",
     "build": "NODE_ENV='production' webpack -p",
     "build:local:watch": "webpack --watch",
-    "release": "release-it"
+    "release": "release-it --dry-run"
   },
   "author": "Mat Gargano <mgargano@gmail.com>",
   "license": "ISC",
