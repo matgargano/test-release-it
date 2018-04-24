@@ -9,6 +9,7 @@
     "build": "NODE_ENV='production' webpack -p",
     "build:local:watch": "webpack --watch",
     "release-dry-run": "release-it --dry-run",
+    "release-verbose": "release-it --verbose",
     "release": "release-it"
   },
   "author": "Mat Gargano <mgargano@gmail.com>",
