@@ -9,6 +9,6 @@
     "repo": "git@github.com:matgargano/test-release-it-release.git",
     "stageDir": ".stage",
     "baseDir": "./",
-    "files": ["**/*"]
+    "files": ["**/*", "!node_modules"]
   }
 }
