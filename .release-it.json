@@ -8,7 +8,7 @@
   "dist": {
     "repo": "git@github.com:matgargano/test-release-it-release.git",
     "stageDir": ".stage",
-    "baseDir": "./final",
+    "baseDir": ".final",
     "files": ["**/*", "!node_modules"]
   }
 }
